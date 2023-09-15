@@ -1,0 +1,1 @@
+imap.serveratual.com.br;email@codeinloop.com.br;password001_1;imap.servidornovo.com;email@codeinloop.com.br;password001_2;;
